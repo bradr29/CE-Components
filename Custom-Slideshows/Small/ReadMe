@@ -1,7 +1,4 @@
 See Hidden Creek Public Homepage for reference. (near bottom of page).  This example has no outer margins on outside of album and 
-.5rem margins in-between each image. This is for smaller images vs larger images that stretch full-width, so there's just CSS differences
-from Jason's main example for the most part.
+.5rem margins in-between each image. This is for smaller images vs larger images that stretch full-width, so there's just CSS differences from Jason's main example for the most part.
 
 Make sure to add initSick(); function call in the Photo Album Events --> OnPluginLoadFinish & OnAfterCategoryChange
-
-Works best when added
